@@ -3,5 +3,3 @@ def saludar():
 
 saludar()
 
-print("Hoy es Miercoles")
-

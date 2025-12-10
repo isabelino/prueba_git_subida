@@ -6,4 +6,3 @@ for i in range(0,len(alumnos)):
     if alumnos[i] =="Pedro":
         print("Hola Pedro como estas")
 
-print("Estamos con GIT")
